@@ -203,4 +203,12 @@ border-color:#dc3545;
 
 box-shadow:0 0 12px rgba(220,53,69,.35);
 
+}.card{
+  position: relative;
+}
+.bg-warning{
+  position:absolute;
+   top:0; 
+   left:0;
+   margin: 10px;
 }
