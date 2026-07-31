@@ -43,12 +43,12 @@ https://arfakabadi-001.github.io/cineverse-movie-platform/
 ---
 
 ##  Wishlist
-![Wishlist](screenshots/wishlist.jpg)
+![Wishlist](screenshots/Screenshot%202026-07-30%20224815.png)
 
 ---
 
 ##  Login
-![Login](screenshots/Screenshot%202026-07-30%20224815.png)
+![Login](screenshots/login.png)
 
 ---
 
