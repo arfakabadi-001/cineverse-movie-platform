@@ -36,8 +36,10 @@ https://arfakabadi-001.github.io/cineverse-movie-platform/
 ---
 
 ##  Trending
-<img src="screenshots/trendind1.jpg" width="48%">
-<img src="screenshots/trending2.png" width="48%">
+![Trending](screenshots/Screenshot%202026-07-31%20163942.png)
+![Trending](screenshots/Screenshot%202026-07-31%20164001.png)
+![Trending](screenshots/Screenshot%202026-07-31%20163528.png)
+
 ---
 
 ##  Wishlist
@@ -46,7 +48,7 @@ https://arfakabadi-001.github.io/cineverse-movie-platform/
 ---
 
 ##  Login
-![Login](screenshots/login.png)
+![Login](screenshots/Screenshot%202026-07-30%20224815.png)
 
 ---
 
